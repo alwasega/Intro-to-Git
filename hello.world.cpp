@@ -4,7 +4,10 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello world";
+   int z;
+    int y;
+    int x = z+y;
+    cout<<"The sum is "<<z<<endl;
     return 0;
 
 }
